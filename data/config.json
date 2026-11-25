@@ -1,0 +1,21 @@
+{
+  "config": "my_config_website_tonstore",
+  "inventory": {
+    "1": {
+      "name": "Talkadly - aplikasi chatting",
+      "deskripsi": "Talkadly aplikasi chatting dengan privasi tingkat tinggi dan keamanannya",
+      "author": "anton",
+      "path": "https://eanxtonxantonxgroup.github.io/Talkadly/",
+      "icon": "talksdly_icon.png",
+      "type_download": "free"
+    },
+    "2": {
+      "name": "File config - booster game roblox",
+      "deskripsi": "File config untuk boost game Roblox kamu!",
+      "author": "rolan",
+      "path": "data/config.json",
+      "icon": "booster_roblox.png",
+      "type_download": "8 coin"
+    }
+  }
+}
